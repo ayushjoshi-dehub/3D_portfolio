@@ -2,7 +2,7 @@
 
 > **A 3D creator driven by crafting striking and unforgettable projects.**
 
-![Portfolio Banner](path/to/your/image.png)
+![Portfolio Banner](dist/assets/image.png)
 
 ---
 
